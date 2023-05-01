@@ -126,6 +126,11 @@ body {
     .exercise-card {
         width: 320px;
     }
+
+    .exercise-video {
+        width: 320px;
+        height: 300px;
+    }
     
 }
 
